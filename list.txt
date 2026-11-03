@@ -1,0 +1,22 @@
+1   Practical 1  - Triangle wave
+2   Practical 2  - Upsampling, downsampling
+3   Practical 3  - Convolution on sound
+4a  Practical 4A - Log transformation
+4b  Practical 4B - Gamma / Power law
+4c  Practical 4C - Contrast enhancement
+4d  Practical 4D - Histogram equalization
+4e  Practical 4E - Thresholding
+5a  Practical 5A - Linear and non-linear smoothing
+5b  Practical 5B* - Image averaging, smoothing, enhancement
+6a  Practical 6A - Gradient and Laplacian
+6b  Practical 6B - Sobel and Canny
+7a  Practical 7A - Erosion
+7b  Practical 7B - Dilation
+7c  Practical 7C - Opening
+7d  Practical 7D - Closing
+7e  Practical 7E - Boundary
+7f  Practical 7F - Morphological gradient
+7g  Practical 7G - Top-Hat
+7h  Practical 7H - Bottom-Hat
+8a  Practical 8A - Corner, Blob, HoG, Haar
+8b  Practical 8B - Edge and region segmentation
